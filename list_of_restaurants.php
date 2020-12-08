@@ -44,7 +44,7 @@
                           echo "</tr>";
                       }
                       sqlsrv_free_stmt($getResults);
-                ?>
+                  ?>
             </table>
         </center>
     </body>
